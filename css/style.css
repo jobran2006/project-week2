@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-     outline: red 1px solid;
+    /*  outline: red 1px solid; */
 }
 
 
@@ -209,7 +209,7 @@ footer nav a {
 .project-box {
     height: 100%;
     width: 100%;
-    background: linear-gradient(to right, #525151 0%, #52515100 100%);
+    background-color: transparent;
     gap: 100px;
     justify-content: space-evenly;
     padding: 50px;
